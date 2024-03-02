@@ -38,7 +38,7 @@ Scenario 1: access to public outdoors pools, rivers, lakes
 Scenario 2: access to public outdoors pools, but not rivers and lakes (algae blooms) 
 Scenario 3: Too hot for public outdoors pools or rivers and lakes  
 
-Counties:  Multnomah, Clackamas, Washington, Yamhill
+Counties:  Multnomah, Clackamas, Washington, Columbia
 
 Public pools - at which temp levels do they close?  [initial search suggests there may not be a set temperature–no policy, just vibes? During heat advisories - also depends on relative humidity]
 Cooling centers location, access,
