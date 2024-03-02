@@ -1,5 +1,7 @@
 import pandas as pd
-
+from sklearn.preprocessing import StandardScaler, normalize
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
 
 
 # data sets:
